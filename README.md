@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @coolman17
+-    im from Ukrain,if you from Ukrain write me. My discord #9596
 - 👀 I’m interested in programming c# code in unity
 - 🌱 I’m currently learning write code
 - 💞️ I’m looking to collaborate with friend
